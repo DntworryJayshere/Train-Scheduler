@@ -4,4 +4,4 @@ A dynamic web page that alows you to Add Trains to Schedule Board. Insert Train 
 
 Link to Github Deployment https://dntworryjayshere.github.io/Train-Scheduler/
 
-Languages & Technologies used HTML, CSS, Firebase, Javascript, Jquery
+Languages & Technologies used HTML, CSS, Javascript, Jquery, Firebase,
